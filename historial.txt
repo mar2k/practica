@@ -1,0 +1,134 @@
+    1  IONIC SERVE
+    2  ionic serve
+    3  mongo
+    4  mongo
+    5  mongo
+    6  mongo
+    7  bower -v
+    8  ng
+    9  angular-cli
+   10  ng new app
+   11  ng new appasa
+   12  firebase
+   13  typescript
+   14  tsc
+   15  ionic start app sidemenu
+   16  ionic run
+   17  cd app
+   18  ionic run
+   19  ionic run android
+   20  cordova platform add android
+   21  ionic run android
+   22  gulp -v
+   23  grunt
+   24  grunt -v
+   25  grunt-cli -v
+   26  grunt
+   27  karma -v
+   28  node -v
+   29  mongo
+   30  mongod
+   31  git clone
+   32  git clone "https://github.com/mar2k/practica.git"
+   33  git status
+   34  git status practica/
+   35  git status practica/
+   36  man git status
+   37  git clone "https://github.com/mar2k/tp_laboratorio_1.git"
+   38  cd practica/
+   39  git status
+   40  pwd
+   41  clear
+   42  tree
+   43  ls
+   44  git status
+   45  git add consola.txt 
+   46  git status
+   47  man git
+   48  claer
+   49  clear
+   50  git status
+   51  git commit
+   52  git status
+   53  git ls-tree
+   54  clear
+   55  git status
+   56  git commit -m "primer commit"
+   57  git status
+   58  git status
+   59  git config user.email "marianoovelar20@outlook.es"
+   60  git config user.name "mariano"
+   61  git commit -m "primer commit"
+   62  git status
+   63  mkdir apuntes
+   64  echo apuntes/"enunciado" >enunciado.txt
+   65  cd apuntes/
+   66  echo "enunciado" > .txt
+   67  echo "enunciado" > 
+   68  echo apuntes/"enunciado" >enunciado.txt
+   69  echo "enunciado" >enunciado.txt
+   70  ls
+   71  git status 
+   72  cd ../
+   73  git status 
+   74  echo "solucion" > solucion.txt
+   75  cd apuntes/
+   76  ls
+   77  cd ../
+   78  ls
+   79  cd apuntes/
+   80  git status 
+   81  cd ../
+   82  git status 
+   83  cd apuntes/
+   84  ls
+   85  git status 
+   86  git add ./
+   87  git status 
+   88  git comit -m "primer comit por consola"
+   89  git commit -m "primer comit por consola"
+   90  git status 
+   91  echo "cambio el archivo" >> solucion.txt
+   92  git status 
+   93  git add ./
+   94  git status 
+   95  git commit -m "se cambio los datos del achivo solucion"
+   96  git status 
+   97  git push origin master 
+   98  git push origin master 
+   99  echo "cambio el archivo" >> enunciado.txt
+  100  git status 
+  101  git add ./
+  102  git status 
+  103  git commit -m "se cambio los datos del achivo enunciado"
+  104  git status 
+  105  git push origin master 
+  106  git status 
+  107  git commit -m "se cambio los datos del achivo enunciado"
+  108  git status 
+  109  git push origin master 
+  110  echo "cambio el archivo" > enunciado.txt
+  111  git status 
+  112  git commit -m "se cambio los datos del achivo enunciado"
+  113  git status 
+  114  git commit -a "se cambio los datos del achivo enunciado"
+  115  git status 
+  116  git clone 
+  117  git status 
+  118  git commit -a "se cambio los datos del achivo enunciado"
+  119  git add ./
+  120  git status 
+  121  git commit -a "se cambio los datos del achivo enunciado"
+  122  git status 
+  123  git commit -a "se cambio los datos del achivo enunciado"
+  124  git push origin master 
+  125  cd ../
+  126  git status 
+  127  git add ./
+  128  git status 
+  129  git commit -m "codigos de git por consola"
+  130  git status 
+  131  git push origin master 
+  132  git status 
+  133  clear
+  134  history > historial.txt
