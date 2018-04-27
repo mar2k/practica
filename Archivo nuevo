@@ -1,0 +1,36 @@
+**SUB DIRECTORIOS
+/var/tmp
+/boot
+/usr/bin
+/opt
+/etc
+
+----------------------------------------
+FS-->FHS
+
+ARCHIVOS ESTATICOS Y DINAMICOS
+estaticos /bin ,boot,sbin,/usr/bin
+dinamocos home,var/etc,
+
+ARCHIVOS COMPARTIDOS Y RESTRINGIDOS
+directoris q son comparidos /usr/bin
+
+atrivutos,permisos
+----------------------------------------
+**comandos
+sudo su
+du -h -->tamaño de
+curl -->copia url
+tar -->descomprime
+cp -->copia archivos
+more -->mu
+cat -->muestra el contenido de un archivo
+less -->muestra y poder navegar por el archivo
+mkdir -->crea 
+> -->redireciona
+whitc -->indica en q sub directorio esta el comando
+mv -->
+----------------------------------------
+ARCHIVOS DIRECORIOS
+ARCHIVOS COMUNES
+ARCHIVOS ESPECIALES
